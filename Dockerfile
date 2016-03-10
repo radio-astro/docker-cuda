@@ -1,4 +1,4 @@
-FROM radioastro/cuda:7.5-runtime
+FROM radioastro/cuda:runtime
 MAINTAINER NVIDIA CORPORATION <digits@nvidia.com>
 
 RUN apt-get update && apt-get install -y --no-install-recommends --force-yes \
