@@ -1,4 +1,4 @@
-DOCKER_REPO=radioastro/cuda:runtme
+DOCKER_REPO=radioastro/cuda:runtime
 
 .PHONY: build clean
 
